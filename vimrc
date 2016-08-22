@@ -18,3 +18,5 @@ set incsearch
 " highlight search results
 set hlsearch
 
+" enable syntax highlighting
+syntax on
