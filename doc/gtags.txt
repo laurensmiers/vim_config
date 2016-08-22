@@ -1,0 +1,5 @@
+Generate tags file:
+- gtags
+Convert it to ctags format:
+- global -t . > ./tags
+ 
