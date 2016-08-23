@@ -18,5 +18,8 @@ set incsearch
 " highlight search results
 set hlsearch
 
-" enable syntax highlighting
+" turn syntax highlighting on
 syntax on
+
+" enable colorscheme
+colorscheme Tomorrow-Night
